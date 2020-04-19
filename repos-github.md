@@ -471,6 +471,7 @@
 - kailuowang/henkan
 - kailuowang/mau
 - katlasik/functionmeta
+- kchapl/sudoku-solver
 - KelkooGroup/theGardener
 - kemitix/eip-zio
 - kemitix/thorp
